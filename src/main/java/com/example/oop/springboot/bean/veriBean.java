@@ -14,5 +14,6 @@ public class veriBean {
     public static void main(String[] args) {
         veriBean reVeriBean = new veriBean();
         System.out.println(reVeriBean.productDTO());
+
     }
 }
